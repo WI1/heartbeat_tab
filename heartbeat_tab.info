@@ -1,0 +1,7 @@
+; $Id$
+package = Heartbeat
+project = Heartbeat Tab
+name = Heartbeat tab
+description = Shows a tab menu on the frontpage with a newsfeed link.
+core = 6.x
+dependencies[] = heartbeat
